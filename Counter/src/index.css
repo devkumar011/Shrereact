@@ -1,0 +1,16 @@
+button{
+  padding: 10px 20px;
+  margin: 20px;
+  color: yellow;
+  background-color: blue;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+h1{
+  color: green;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  
+}
